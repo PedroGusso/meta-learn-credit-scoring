@@ -1,0 +1,9 @@
+imbalanced-learn==0.8.0
+imblearn==0.0
+matplotlib==3.4.1
+networkx==2.5.1
+numpy==1.20.1
+pandas==1.2.3
+scikit-learn==0.24.1
+scipy==1.6.2
+tqdm==4.60.0
